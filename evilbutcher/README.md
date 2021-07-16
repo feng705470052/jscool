@@ -100,7 +100,7 @@ https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/Loon.scripts.c
 
 #### 功能特点
 
-1. 可选择随机 or 最新内容
+1. 可选择随机 or 最新内容。
 
 ### [Funboat](https://github.com/evilbutcher/Quantumult_X/blob/master/check_in/funboat/funboat.js)
 
@@ -119,6 +119,27 @@ https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/Loon.scripts.c
 #### 功能特点
 
 1. 酷乐潮玩小程序、App 自动签到。
+
+### [信息查询](https://github.com/evilbutcher/Quantumult_X/blob/master/check_in/wechatsubs)
+
+#### 功能特点
+
+1. 支持事业单位招聘监控。
+2. 支持高校人才网监控。
+
+### [彩票查询](https://github.com/evilbutcher/Quantumult_X/blob/master/check_in/ssq/ssq.js)
+
+#### 功能特点
+
+1. 支持双色球、大乐透、福彩 3D、七乐彩。
+2. 支持仅查询当日开奖的彩票。
+
+### [华住会](https://github.com/evilbutcher/Quantumult_X/blob/master/check_in/hzh/hzh.js)
+
+#### 功能特点
+
+1. 自动签到。
+2. 领取奖励（开发中）。
 
 ## 规则类
 
